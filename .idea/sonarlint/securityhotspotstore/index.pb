@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+e
+5contracts/entanglement-based-parallel-processing.clar,5/e/5e537b960150efebed55e7a4a2427903b8b93bbf
+d
+4tests/entanglement-based-parallel-processing.test.ts,c/2/c2e314ce19c55d0ff1a83e02ebac7b7feca85a74
+]
+-contracts/quantum-processor-registration.clar,b/8/b8d40cd72fc508426d46ee09f9a2cb27207ac816
+\
+,tests/quantum-processor-registration.test.ts,1/8/183872c796d8a8e0ee269a8b5889ae5f22b2acff
+Z
+*contracts/quantum-result-verification.clar,4/2/42cd11b8d841600e01e8ef9ae01701a18d3b775c
+Y
+)tests/quantum-result-verification.test.ts,1/5/15d05a9de68b6257d8bfa3019a602351835c0df1
+c
+3contracts/superposition-computation-allocation.clar,d/a/da26f0c13eb7589289a71b8a0e2ceced6447bd06
+b
+2tests/superposition-computation-allocation.test.ts,e/a/ea8d242f3d02db5dbe5a53f8b21c1002db1f937d
