@@ -13,3 +13,7 @@ Z
 *contracts/quantum-result-verification.clar,4/2/42cd11b8d841600e01e8ef9ae01701a18d3b775c
 Y
 )tests/quantum-result-verification.test.ts,1/5/15d05a9de68b6257d8bfa3019a602351835c0df1
+c
+3contracts/superposition-computation-allocation.clar,d/a/da26f0c13eb7589289a71b8a0e2ceced6447bd06
+b
+2tests/superposition-computation-allocation.test.ts,e/a/ea8d242f3d02db5dbe5a53f8b21c1002db1f937d
